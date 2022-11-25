@@ -13,5 +13,5 @@ sudo apt upgrade
 sudo apt install php8.0 php8.0-{cli,fpm,pdo,mysql,zip,gd,mbstring,curl,xml,bcmath,intl} php-json php-pear
 
 
-
-sudo echo "PermitRootLogin yes" >> /etc/ssh/sshd_config
+#TODO AS ROOT BITCH
+#echo "PermitRootLogin yes" > /etc/ssh/sshd_config
